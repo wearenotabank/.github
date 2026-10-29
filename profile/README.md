@@ -13,7 +13,7 @@ code, documentation and release records here.
 | `hooked-userop` | A TypeScript SDK that lets a Safe pay its gas in a token CoW Protocol can trade. A Dart SDK is planned. | Apache-2.0 |
 | `auto-sweep-contracts` | Sweeps a Safe's tokens on every chain into one token on one chain, through CoW Protocol and Circle CCTP. Contracts with TypeScript and Dart SDKs, in early development. | Contracts BUSL 1.1 (source-available), SDKs Apache-2.0 |
 
-**Review previews.** Every repository here is published to be read and reviewed before its first release. No contract is
+**Review previews.** Every public repository here is published to be read and reviewed before its first release. No contract is
 deployed, no release is tagged and no package is on a registry yet.
 
 Safe, CoW Protocol, Circle and viem are named to say what the software works with. That implies no affiliation or
